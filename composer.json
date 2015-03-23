@@ -1,11 +1,6 @@
 {
     "name": "kaom/laravel-mentions",
     "description": "Mentions based on Eloquent models for Laravel 5.",
-    "license": "BSD-3-Clause",
-    "authors": [{
-        "name": "Brian Kelly",
-        "email": "oss@anon.rocks"
-    }],
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.0",
